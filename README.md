@@ -21,7 +21,7 @@ Includes Edison_client.py, Open_fan.py and TempDis.py. TempDis.py is used for me
 ## Android App
 MyActivity.java, MyCustomAdapter.java, TCPClient.java for this part.
 
-## Other file
+## Other files
 featureX.py and test_featureAPI.py is used for extracting features from dataset
 
 Have fun
