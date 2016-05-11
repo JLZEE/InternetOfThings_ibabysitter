@@ -23,3 +23,5 @@ MyActivity.java, MyCustomAdapter.java, TCPClient.java for this part.
 
 ## Other file
 featureX.py and test_featureAPI.py is used for extracting features from dataset
+
+Have fun
