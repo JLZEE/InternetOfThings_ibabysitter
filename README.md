@@ -14,3 +14,12 @@ A single code server.py is used in AWS EC2 server. The code at this part is simp
 
 ## Client part on Raspberry Pi
 Includes BabyCry_client.py, record.py and sndRcdFtrX.py. record.py is for recording sound; sndRcdFtrX.py is for machine learning prediction and BabyCry_client.py is for sending message to EC2 server
+
+## Client part on Intel Edison
+Includes Edison_client.py, Open_fan.py and TempDis.py. TempDis.py is used for measure the temperature, and Open_fan.py is for open fan (in 2 level). Edison_client.py is for connecting Intel Edison with server.
+
+## Android App
+MyActivity.java, MyCustomAdapter.java, TCPClient.java for this part.
+
+## Other file
+featureX.py and test_featureAPI.py is used for extracting features from dataset
