@@ -1,7 +1,7 @@
 # InternetOfThings_ibabysitter
 
 This is a Columbia University IoT project - ibabysitter, please visit our website for more information:
-http://i-babysitter.weebly.com
+http://iotcolumbia2016mon1.weebly.com/
 
 The code is basically divided into 4 parts:
 1. Server on EC2
